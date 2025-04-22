@@ -83,12 +83,6 @@ PyGoogleCal/
     └── utils.py               # Funções utilitárias
 ```
 
-## ⚠️ Segurança
-
-**IMPORTANTE**: Nunca compartilhe ou commit seus arquivos `credentials.json` e `token.json`. Eles contêm informações sensíveis que permitem acesso à sua conta Google. Estes arquivos estão incluídos no `.gitignore` para evitar commits acidentais.
-
-O arquivo `credentials.example.json` mostra a estrutura esperada do arquivo de credenciais, mas você precisa criar o seu próprio seguindo as instruções na seção "Como usar".
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
